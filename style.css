@@ -1,0 +1,110 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.img1{
+    margin-left: 60px;
+    margin-top: -20px;
+}
+.img2{
+    margin-left: 750px;
+    margin-top: 60px;
+}
+.head1{
+    padding-left: 750px;
+    margin-top: -520px;
+}
+#email{
+    width: 346px;
+    height: 50px;
+    border: 1px solid gray;
+    background-color: rgb(218, 211, 211);
+    padding-left: 40px;
+     border-radius: 5px;
+     margin-top: -5.5px;
+     position: relative;
+}
+#password{
+    border: 1px solid gray;
+    width: 346px;
+    height: 50px;
+    border: none;
+    padding-left: 40px;
+    padding-top: -10px;
+    border-bottom: 2px solid blue;
+    position: relative;
+}
+#re-password{
+    border: 1px solid gray;
+    width: 346px;
+    height: 50px;
+    padding-left: 40px;
+    padding-top: -10px;
+    position: relative;
+}
+#num{
+    border: 1px solid gray;
+    width: 346px;
+    height: 50px;
+    padding-left: 40px;
+    padding-top: -10px; 
+    position: relative;
+}
+#icon1{
+    position: absolute;
+    top: 264px;
+    left: 760px;
+    z-index: 2;
+}
+#icon2{
+    position: absolute;
+    top: 312px;
+    left: 760px;
+    z-index: 2; 
+}
+#icon3{
+    position: absolute;
+    top: 362px;
+    left: 760px;
+    z-index: 2; 
+}
+#icon4{
+    position: absolute;
+    top: 412px;
+    left: 760px;
+    z-index: 2; 
+}
+#icon5{
+    position: absolute;
+    top: 314px;
+    left: 1065px;
+    z-index: 2; 
+}
+#icon6{
+    position: absolute;
+    top: 264px;
+    left: 1066px;
+    z-index: 2;
+}
+.btn2{
+    margin-top: 20px;
+    margin-left: 780px;
+    width: 110px;
+    height: 35px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+.btn3{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 110px;
+    height: 35px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
